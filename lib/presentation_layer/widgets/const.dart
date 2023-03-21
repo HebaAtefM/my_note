@@ -1,0 +1,1 @@
+String KNoteBox='notes_box';
